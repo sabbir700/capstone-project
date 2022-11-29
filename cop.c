@@ -23,7 +23,6 @@ void gotoxy(int x,int y)
     CRD.Y = y;
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),CRD);
 }
-//struct pass
 //{
 //	char pass[25];
 //}pa;
