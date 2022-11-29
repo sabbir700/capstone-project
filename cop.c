@@ -98,7 +98,7 @@ int main()
 
     title();
     printf("\n\n\t\t\t\tCapstone Project");
-    printf("\n\n\t\t\t\tBy Shakibul Hasan");
+    printf("\n\n\t\t\t\tBy sabbir ahamed");
     printf("\n\n\t\t\t  Daffodil International University\n\t\t\t");
     printChar('=',38);
     printf("\n\n\n\t\t\t       press any key to Enter");
